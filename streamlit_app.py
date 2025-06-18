@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 import altair as alt
 
-st.title("📊 Streamlit in Snowflake!")
+st.title("📊 Streamlit in Snowflake 22!")
 
 user_input = st.text_input("Enter your name:", "")
 
